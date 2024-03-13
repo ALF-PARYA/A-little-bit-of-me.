@@ -9,4 +9,4 @@ Après m'être blessé en 2021, j'ai pris la décision " sur un coup de tête" d
 
 ============================================================================================
 
-[CV-antoine-laforest-dev.pdf](https://github.com/ALF-PARYA/A-little-bit-of-me./files/14589187/CV-antoine-laforest-dev.pdf)
+![CV](/doc/CV-antoine-laforest-dev.pdf)
