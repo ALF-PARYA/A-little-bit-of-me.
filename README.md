@@ -9,4 +9,4 @@ Après m'être blessé en 2021, j'ai pris la décision " sur un coup de tête" d
 
 ========================================================================================
 
-![CV](/doc/CV-antoine-laforest-dev_page-0001.jpg)
+![CV](/doc/CV-antoine-laforest-dev.pdf)
